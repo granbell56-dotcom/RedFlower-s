@@ -208,10 +208,3 @@ RedFlower’s est un projet personnel, visuellement orienté terminal, qui méla
 - outils de démonstration.
 
 Il peut servir de base pour un outil de console plus avancé, mais il reste avant tout un projet expérimental et pédagogique.
-
-Si tu veux, je peux maintenant te faire une version finale du README encore plus jolie, avec :
-
-- un logo ASCII,
-- une section de fonctionnalités plus premium,
-- une section “How it works”,
-- une version GitHub-ready plus propre.
