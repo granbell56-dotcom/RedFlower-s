@@ -7,7 +7,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 versp = Fore.MAGENTA + "->" + Fore.RESET
-texte = Fore.CYAN + "Liste des commandes" + Fore.RESET
+texte = Fore.CYAN + "Lista de pedidos" + Fore.RESET
 
 
 def crow():
